@@ -30,8 +30,13 @@
 
 .title{
     width: 100%;
+    background-image: url("img/sig_head_pic01.jpg");
+    height: 300px;
 }
-
+.title p{
+    color: white;
+    text-align: center;
+}
 .event{
     width: 100%;
     text-align: center;
@@ -50,3 +55,9 @@
     text-align: center;
 }
 
+.menu{
+    float:left;
+}
+.menues{
+    padding-left: 30%;
+}
