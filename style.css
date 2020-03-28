@@ -1,0 +1,52 @@
+.event{
+    display:table;
+}
+
+.item{
+    display: table-cell;
+}
+
+.contents{
+    display: table;
+}
+
+.content{
+    display: table-cell;
+}
+
+.info{
+    display: table;
+}
+
+.item{
+    display: table-cell;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+.header{
+    width: 100%;
+}
+
+.title{
+    width: 100%;
+}
+
+.event{
+    width: 100%;
+    text-align: center;
+}
+
+.contents{
+    width: 100%;
+    text-align: center;
+}
+
+.info{
+    width: 100%;
+}
+
+.content img{
+    text-align: center;
+}
+
